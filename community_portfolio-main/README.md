@@ -104,5 +104,4 @@ This is an open-source project, and contributions are welcome! Feel free to:
 5. Open a Pull Request
 
 ## Feedback
-
 If you have any feedback or suggestions, please open an issue in the repository. We appreciate your input!
